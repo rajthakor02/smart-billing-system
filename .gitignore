@@ -1,0 +1,15 @@
+# Python Cache
+__pycache__/
+
+# database files
+*.db
+*.sqlite3
+
+# virtual environments
+env/
+venv/
+*.egg-info/
+
+# IDE settings
+.idea/
+.vscode/
